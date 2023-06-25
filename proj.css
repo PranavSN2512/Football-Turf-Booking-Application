@@ -1,0 +1,28 @@
+body{
+    margin: 0x;
+    padding:0x;
+    background: url(projj33.jpg);
+    
+}
+#num1{
+   
+    width: 33%;
+    margin: 12px auto;
+    color:black;
+    font-size: 23px;
+    font-family: 'Kanit', sans-serif;
+    
+}
+#num2{
+    color: white;
+    position: absolute;
+    left:40px;
+    top:20px;
+}
+input{
+    border-color: black;
+ 
+}
+a{
+    color: azure;
+}
